@@ -103,8 +103,6 @@ The official docs are hosted [here][docs]. Each individual component also has ac
 [rust]: https://www.rust-lang.org/
 [solidity]: https://soliditylang.org/
 [svelte]: https://svelte.dev
-[twitter badge]: https://twitter.com/intent/follow?screen_name=union_build
-[twitter handle]: https://img.shields.io/twitter/follow/union_build.svg?style=social&label=Follow
 [typescript]: https://www.typescriptlang.org/
 [union.build]: https://union.build
 [`cometbls`]: https://github.com/unionlabs/cometbls
